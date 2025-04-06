@@ -8,7 +8,8 @@ GoH2o helps you stay hydrated with smart reminders and personalized hydration go
 For help, feedback, or questions, email us at:
 cloundninerdev@gmail.com
 
-❓ Frequently Asked Questions
+❓ Frequently Asked Questions:
+
 Q: Does GoH2o collect or share my personal data?
 
 A: No. GoH2o runs 100% offline and never collects or stores your data outside your device.
