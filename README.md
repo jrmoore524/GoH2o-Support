@@ -36,7 +36,3 @@ Always consult a qualified healthcare professional for medical advice or concern
 
 Thank you for supporting GoH2o! 💧
 
----
-
-Thank you for supporting GoH2o! 💧
-
