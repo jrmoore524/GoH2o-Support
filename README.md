@@ -1,4 +1,5 @@
 GoH2o Support
+
 Welcome to the support page for GoH2o Hydration Tracker, your privacy-first water tracking app.
 
 GoH2o helps you stay hydrated with smart reminders and personalized hydration goals – all without collecting personal data or requiring an account.
