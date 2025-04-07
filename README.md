@@ -31,6 +31,7 @@ Q: Does GoH2o need access to my health data, photos, or files?
 A: No. GoH2o does not access your health records, contacts, photos, or files. Any chart export or image sharing is entirely optional and initiated by you.
 
 🛡️ Privacy Policy
+
 GoH2o is designed with your privacy in mind:
 
 No external data collection
